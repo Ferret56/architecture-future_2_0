@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="28.1.1">
+  <diagram name="Страница — 1" id="mdAWhw6fXzkQ5Q9cWVRh">
+    <mxGraphModel dx="1653" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Eswm_gQQmw046NMw9DQt-1" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;GitLab&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="145" y="10" width="780" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="210" y="70" width="650" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="510" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="395" y="256.25" width="290" height="257.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-7" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-col-size=&quot;md&quot; data-end=&quot;1501&quot; data-start=&quot;1473&quot;&gt;Microsoft SQL Server 2008&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-col-size=&quot;md&quot; data-end=&quot;1556&quot; data-start=&quot;1501&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="320" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-10" value="Power BI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="350" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-11" value="Apache Camel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="385" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-12" value="GraphQL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-13" value="gRPC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-14" value="Spring AI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-15" value="DevOps" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-16" value="Microservices" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-17" value="Java" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-18" value="SpringBoot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-19" value="PostgreSQL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-20" value="Apache Kafka" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="483.75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-21" value="Python" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-22" value="Python" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-23" value="ClickHouse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-24" value="Debezium" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-25" value="Kubernetes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-26" value="ArgoCD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-28" value="Hadoop" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-29" value="Apache spark" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-30" value="GitLab" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-31" value="GitLab CI/CD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Eswm_gQQmw046NMw9DQt-32" value="Monolith architecture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="420" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

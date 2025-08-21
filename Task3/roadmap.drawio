@@ -1,0 +1,163 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="28.1.1">
+  <diagram name="Страница — 1" id="f-liuDDMb9a9QSkCF0TL">
+    <mxGraphModel dx="1878" dy="996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="1000" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="1000" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="470" width="1000" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="620" width="1000" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-5" value="Витрина&lt;div&gt;данных&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="210" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-6" value="Финансы" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="355" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-7" value="Медицина" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="510" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-8" value="Персонал" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="670" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="770" width="1000" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-10" value="Клиенты" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="810" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="920" width="1000" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-12" value="ML" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="960" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-14" value="Подготовка инфраструктуры" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80" y="205" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-15" value="Подготовка инфраструктуры" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="350" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-16" value="Подготовка инфраструктуры" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="505" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-17" value="Подготовка инфраструктуры" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="655" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-18" value="Подготовка инфраструктуры" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="100" y="805" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-19" value="Подготовка инфраструктуры" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="100" y="970" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-20" value="Интеграция с legacy DWH" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="280" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-21" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#C4C4C4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="1050" as="sourcePoint" />
+            <mxPoint x="260" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-22" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Q1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-24" value="Миграция данных с DWH в домен" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-25" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Q2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-26" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#C4C4C4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="1050" as="sourcePoint" />
+            <mxPoint x="600" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-27" value="Интеграция с доменами через шину данных" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="600" y="230" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-28" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#C4C4C4;exitX=0.84;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="y0mYe-v99TRb2UWS0fOm-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="1040" as="sourcePoint" />
+            <mxPoint x="920" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-29" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Q3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-30" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Q4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-31" value="Запуск витрины данных" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="870" y="180" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-33" value="Миграция данных с DWH в домен" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="270" y="355" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-34" value="Интеграция с доменами через шину данных" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="325" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-36" value="Продуктовый запуск и стабилизация&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="920" y="355" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-38" value="Миграция данных с DWH в домен" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="505" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-39" value="Синхронная интеграция с доменами" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="730" y="490" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-40" value="Интеграция с доменами через шину данных" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="470" y="540" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-41" value="Продуктовый запуск и стабилизация&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="920" y="540" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-42" value="Миграция данных с DWH в домен" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="260" y="640" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-43" value="Интеграция с доменами через шину данных" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="460" y="670" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-44" value="Синхронная интеграция с доменами" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="620" y="630" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-45" value="Запуск портала для персонала" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="920" y="670" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-46" value="Миграция данных с DWH в домен" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="260" y="797" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-47" value="Интеграция с доменами через шину данных" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="460" y="835" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-48" value="Синхронная интеграция с доменами" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="610" y="790" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-49" value="Запуск портала для клиента" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="920" y="820" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-50" value="Интеграция с доменами через шину данных" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="390" y="930" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-51" value="Обучение модели" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="600" y="980" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-53" value="Тестирование, корректировка параметров" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="750" y="930" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y0mYe-v99TRb2UWS0fOm-56" value="Запуск ML модуля и портала для BI аналитика" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="920" y="960" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
